@@ -1,4 +1,6 @@
 
+00. Puesta en marcha: correr contenedor y crear database
+
 01. Creamos el main y configuramos SpringBootApplication
 
 02. Creamos un YAML (aplication.yml) para configurar SpringBootApplication
